@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 
-const char* ssid = "MJ Home";
-const char* password = "aa4488bb";
+const char* ssid = "Add Your WIFI SSID";
+const char* password = "Add Your WIFI Password Here";
 
 const int ledPin1 = 2; // Replace with the actual pin number for your first LED
 const int ledPin2 = 12; // Replace with the actual pin number for your second LED
