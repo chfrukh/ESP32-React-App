@@ -26,7 +26,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ESP32-React-App.git
+   git clone https://github.com/chfrukh/ESP32-React-App.git
 2. Navigate to the project directory:
    cd ESP32-React-App
 3. Install dependencies:
